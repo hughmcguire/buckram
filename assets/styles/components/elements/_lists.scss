@@ -173,7 +173,6 @@
     content: counter(level-1)".\A0";
     display: inline-block;
     text-align: right;
-    width: if-map-get($ol-padding-left, $type);
   }
 
   ol {
